@@ -1,4 +1,4 @@
-# 🛰️ SCiMORSE — ESP32-Based Morse Code Trainer
+# SCiMORSE — ESP32-Based Morse Code Trainer
 
 ## 🔹 Overview  
 **SCiMORSE** is a **portable and compact ESP32-based device** that lets you **learn, send, and decode Morse code** in a fun, interactive way.  
