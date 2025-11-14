@@ -16,6 +16,7 @@ It features both **hardware feedback** (LED + buzzer) and a **Wi-Fi-based web in
 ✅ **Practice Mode** — Learn by sending correct Morse patterns  
 ✅ **Built-in Morse Chart** — Reference A–Z & 0–9 instantly  
 ✅ **Settings Menu** — Toggle LED & buzzer anytime  
+✅ **Weight** — 134g
 ✅ **Custom Acrylic Case** — Transparent, professional finish  
 
 ---
