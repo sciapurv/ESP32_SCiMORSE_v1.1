@@ -48,7 +48,7 @@ It features both **hardware feedback** (LED + buzzer) and a **Wi-Fi-based web in
 
 ## 🎥 Full Video Demo  
 📺 Watch the full build, explanation, and demo on YouTube:  
-🔗 [https://youtu.be/S11Kks1h994](#)  
+🔗 (https://youtu.be/S11Kks1h994)  
 
 ---
 
