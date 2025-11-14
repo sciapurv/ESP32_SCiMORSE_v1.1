@@ -42,13 +42,13 @@ It features both **hardware feedback** (LED + buzzer) and a **Wi-Fi-based web in
 
 ## ⚙️ Circuit Diagram & Code  
 📜 **Complete Schematic + Source Code:**  
-🔗 [View on GitHub →](#)  
+🔗 [View on GitHub](#)  
 
 ---
 
 ## 🎥 Full Video Demo  
 📺 Watch the full build, explanation, and demo on YouTube:  
-🔗 [YouTube Link →](#)  
+🔗 [https://youtu.be/S11Kks1h994](#)  
 
 ---
 
